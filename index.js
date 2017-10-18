@@ -22,4 +22,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = function();
+var theFunk = funkyFunction(return);
